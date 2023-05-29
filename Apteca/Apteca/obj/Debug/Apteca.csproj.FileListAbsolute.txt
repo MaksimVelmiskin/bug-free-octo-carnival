@@ -1,0 +1,33 @@
+C:\Users\Maksim\source\repos\Apteca\Apteca\obj\Debug\Apteca.csproj.AssemblyReference.cache
+C:\Users\Maksim\source\repos\Apteca\Apteca\obj\Debug\Apteca.Form1.resources
+C:\Users\Maksim\source\repos\Apteca\Apteca\obj\Debug\Apteca.Form10.resources
+C:\Users\Maksim\source\repos\Apteca\Apteca\obj\Debug\Apteca.Form2.resources
+C:\Users\Maksim\source\repos\Apteca\Apteca\obj\Debug\Apteca.Form3.resources
+C:\Users\Maksim\source\repos\Apteca\Apteca\obj\Debug\Apteca.Form4.resources
+C:\Users\Maksim\source\repos\Apteca\Apteca\obj\Debug\Apteca.Form5.resources
+C:\Users\Maksim\source\repos\Apteca\Apteca\obj\Debug\Apteca.Form6.resources
+C:\Users\Maksim\source\repos\Apteca\Apteca\obj\Debug\Apteca.Form7.resources
+C:\Users\Maksim\source\repos\Apteca\Apteca\obj\Debug\Apteca.Form8.resources
+C:\Users\Maksim\source\repos\Apteca\Apteca\obj\Debug\Apteca.Form9.resources
+C:\Users\Maksim\source\repos\Apteca\Apteca\obj\Debug\Apteca.Properties.Resources.resources
+C:\Users\Maksim\source\repos\Apteca\Apteca\obj\Debug\Apteca.csproj.GenerateResource.cache
+C:\Users\Maksim\source\repos\Apteca\Apteca\obj\Debug\Apteca.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.csproj.AssemblyReference.cache
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.Form1.resources
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.Form10.resources
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.Form2.resources
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.Form3.resources
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.Form4.resources
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.Form5.resources
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.Form6.resources
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.Form7.resources
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.Form8.resources
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.Form9.resources
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.Properties.Resources.resources
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.csproj.GenerateResource.cache
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\bin\Debug\Apteca.exe.config
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\bin\Debug\Apteca.exe
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\bin\Debug\Apteca.pdb
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.exe
+C:\Users\Maksim\OneDrive\Рабочий стол\Apteca\Apteca\obj\Debug\Apteca.pdb
